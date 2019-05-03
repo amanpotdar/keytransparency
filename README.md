@@ -116,6 +116,7 @@ which must be setup in order for the Key Transparency tests to work.
 
 ### Directory structure
 
+
 The directory structure of Key Transparency is as follows:
 
 * [**cmd**](cmd): binaries
